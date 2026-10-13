@@ -7,8 +7,7 @@
     "build": "next build",
     "lint": "next lint",
     "export": "next export",
-    "deploy": "vercel --prod",
-    "preinstall": "node dist/setup.js"
+    "deploy": "vercel --prod"
   },
   "dependencies": {
     "@radix-ui/react-toast": "^1.0.0",
